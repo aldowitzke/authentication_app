@@ -1,24 +1,3 @@
-# README
+An Rails API to authenticate users, combined with a React frontend which consumes data from this API to create, login and logout users.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To check the React frontend, [click here](https://github.com/aldowitzke/ReactAuthApp)
